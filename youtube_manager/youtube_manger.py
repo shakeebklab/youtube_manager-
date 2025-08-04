@@ -75,7 +75,8 @@ def main():
   
     while True:
         videos = load_videos()
-        print("================ welcome to youtube Maneger =================")
+        print("================ welcome to youtube Maneger =================\n")
+        
         print('Enter 1 to list all videos')
         print("Enter 2 to add a video")
         print("Enter 3 to update a video")
